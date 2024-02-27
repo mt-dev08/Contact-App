@@ -1,8 +1,8 @@
 <h1>A Feature-Rich Contact Management App with React, Vite, and Firebase</h1>
 
-    <p>This repository showcases a dynamic contact management application named <strong>"FireBase Contact App"</strong> built with React, Vite, and Firebase as the backend. It offers a user-friendly interface to perform CRUD (Create, Read, Update, Delete) operations on your contact list.</p>
+<p>This repository showcases a dynamic contact management application named <strong>"FireBase Contact App"</strong> built with React, Vite, and Firebase as the backend. It offers a user-friendly interface to perform CRUD (Create, Read, Update, Delete) operations on your contact list.</p>
 
-    <h2>Key Features:</h2>
+<h2>Key Features:</h2>
     <ul>
         <li><strong>Intuitive Contact Management:</strong>
             <ul>
@@ -30,7 +30,7 @@
         </li>
     </ul>
 
-    <h2>Benefits:</h2>
+<h2>Benefits:</h2>
     <ul>
         <li>Provides a centralized and user-friendly platform for managing contacts.</li>
         <li>Offers powerful CRUD functionalities for efficient data manipulation.</li>
@@ -39,11 +39,11 @@
         <li>Enhances user experience with responsive UI design and feedback notifications.</li>
     </ul>
 
-    <h2>Target Audience:</h2>
+<h2>Target Audience:</h2>
     <ul>
         <li>Developers seeking to build dynamic CRUD applications with React and Firebase.</li>
         <li>Individuals interested in exploring real-time data management with Firebase.</li>
         <li>Anyone looking for a well-structured and documented React project utilizing various modern libraries.</li>
     </ul>
 
-    <p>This repository serves as a valuable resource for developers wanting to create interactive and feature-rich applications using React, Vite, Firebase, and other cutting-edge technologies.</p>
+<p>This repository serves as a valuable resource for developers wanting to create interactive and feature-rich applications using React, Vite, Firebase, and other cutting-edge technologies.</p>
